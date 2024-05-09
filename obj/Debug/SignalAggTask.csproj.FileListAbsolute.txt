@@ -1,0 +1,31 @@
+C:\Users\436870\OneDrive - The College of West Anglia\Year 2 Computing L3\Code\Unit 16 - OOP\OOPUnit16 - Windows Forms Application\SignalAggTask\bin\Debug\SignalAggTask.exe.config
+C:\Users\436870\OneDrive - The College of West Anglia\Year 2 Computing L3\Code\Unit 16 - OOP\OOPUnit16 - Windows Forms Application\SignalAggTask\bin\Debug\SignalAggTask.exe
+C:\Users\436870\OneDrive - The College of West Anglia\Year 2 Computing L3\Code\Unit 16 - OOP\OOPUnit16 - Windows Forms Application\SignalAggTask\bin\Debug\SignalAggTask.pdb
+C:\Users\436870\OneDrive - The College of West Anglia\Year 2 Computing L3\Code\Unit 16 - OOP\OOPUnit16 - Windows Forms Application\SignalAggTask\obj\Debug\SignalAggTask.csproj.AssemblyReference.cache
+C:\Users\436870\OneDrive - The College of West Anglia\Year 2 Computing L3\Code\Unit 16 - OOP\OOPUnit16 - Windows Forms Application\SignalAggTask\obj\Debug\SignalAggTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\436870\OneDrive - The College of West Anglia\Year 2 Computing L3\Code\Unit 16 - OOP\OOPUnit16 - Windows Forms Application\SignalAggTask\obj\Debug\SignalAggTask.Form1.resources
+C:\Users\436870\OneDrive - The College of West Anglia\Year 2 Computing L3\Code\Unit 16 - OOP\OOPUnit16 - Windows Forms Application\SignalAggTask\obj\Debug\SignalAggTask.Properties.Resources.resources
+C:\Users\436870\OneDrive - The College of West Anglia\Year 2 Computing L3\Code\Unit 16 - OOP\OOPUnit16 - Windows Forms Application\SignalAggTask\obj\Debug\SignalAggTask.csproj.GenerateResource.cache
+C:\Users\436870\OneDrive - The College of West Anglia\Year 2 Computing L3\Code\Unit 16 - OOP\OOPUnit16 - Windows Forms Application\SignalAggTask\obj\Debug\SignalAggTask.csproj.CoreCompileInputs.cache
+C:\Users\436870\OneDrive - The College of West Anglia\Year 2 Computing L3\Code\Unit 16 - OOP\OOPUnit16 - Windows Forms Application\SignalAggTask\obj\Debug\SignalAggTask.exe
+C:\Users\436870\OneDrive - The College of West Anglia\Year 2 Computing L3\Code\Unit 16 - OOP\OOPUnit16 - Windows Forms Application\SignalAggTask\obj\Debug\SignalAggTask.pdb
+C:\Users\lande\Documents\SignalAggTask\bin\Debug\SignalAggTask.exe.config
+C:\Users\lande\Documents\SignalAggTask\bin\Debug\SignalAggTask.exe
+C:\Users\lande\Documents\SignalAggTask\bin\Debug\SignalAggTask.pdb
+C:\Users\lande\Documents\SignalAggTask\obj\Debug\SignalAggTask.csproj.AssemblyReference.cache
+C:\Users\lande\Documents\SignalAggTask\obj\Debug\SignalAggTask.Form1.resources
+C:\Users\lande\Documents\SignalAggTask\obj\Debug\SignalAggTask.Properties.Resources.resources
+C:\Users\lande\Documents\SignalAggTask\obj\Debug\SignalAggTask.csproj.GenerateResource.cache
+C:\Users\lande\Documents\SignalAggTask\obj\Debug\SignalAggTask.csproj.CoreCompileInputs.cache
+C:\Users\lande\Documents\SignalAggTask\obj\Debug\SignalAggTask.exe
+C:\Users\lande\Documents\SignalAggTask\obj\Debug\SignalAggTask.pdb
+C:\Users\lande\Documents\OOP - A2 - Code\SignalAggTask\bin\Debug\SignalAggTask.exe.config
+C:\Users\lande\Documents\OOP - A2 - Code\SignalAggTask\bin\Debug\SignalAggTask.exe
+C:\Users\lande\Documents\OOP - A2 - Code\SignalAggTask\bin\Debug\SignalAggTask.pdb
+C:\Users\lande\Documents\OOP - A2 - Code\SignalAggTask\obj\Debug\SignalAggTask.csproj.AssemblyReference.cache
+C:\Users\lande\Documents\OOP - A2 - Code\SignalAggTask\obj\Debug\SignalAggTask.Form1.resources
+C:\Users\lande\Documents\OOP - A2 - Code\SignalAggTask\obj\Debug\SignalAggTask.Properties.Resources.resources
+C:\Users\lande\Documents\OOP - A2 - Code\SignalAggTask\obj\Debug\SignalAggTask.csproj.GenerateResource.cache
+C:\Users\lande\Documents\OOP - A2 - Code\SignalAggTask\obj\Debug\SignalAggTask.csproj.CoreCompileInputs.cache
+C:\Users\lande\Documents\OOP - A2 - Code\SignalAggTask\obj\Debug\SignalAggTask.exe
+C:\Users\lande\Documents\OOP - A2 - Code\SignalAggTask\obj\Debug\SignalAggTask.pdb
