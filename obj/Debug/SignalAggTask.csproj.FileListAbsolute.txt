@@ -29,3 +29,13 @@ C:\Users\lande\Documents\OOP - A2 - Code\SignalAggTask\obj\Debug\SignalAggTask.c
 C:\Users\lande\Documents\OOP - A2 - Code\SignalAggTask\obj\Debug\SignalAggTask.csproj.CoreCompileInputs.cache
 C:\Users\lande\Documents\OOP - A2 - Code\SignalAggTask\obj\Debug\SignalAggTask.exe
 C:\Users\lande\Documents\OOP - A2 - Code\SignalAggTask\obj\Debug\SignalAggTask.pdb
+C:\Users\lande\Documents\TrafficLightSystem\bin\Debug\SignalAggTask.exe.config
+C:\Users\lande\Documents\TrafficLightSystem\bin\Debug\SignalAggTask.exe
+C:\Users\lande\Documents\TrafficLightSystem\bin\Debug\SignalAggTask.pdb
+C:\Users\lande\Documents\TrafficLightSystem\obj\Debug\SignalAggTask.csproj.AssemblyReference.cache
+C:\Users\lande\Documents\TrafficLightSystem\obj\Debug\SignalAggTask.Form1.resources
+C:\Users\lande\Documents\TrafficLightSystem\obj\Debug\SignalAggTask.Properties.Resources.resources
+C:\Users\lande\Documents\TrafficLightSystem\obj\Debug\SignalAggTask.csproj.GenerateResource.cache
+C:\Users\lande\Documents\TrafficLightSystem\obj\Debug\SignalAggTask.csproj.CoreCompileInputs.cache
+C:\Users\lande\Documents\TrafficLightSystem\obj\Debug\SignalAggTask.exe
+C:\Users\lande\Documents\TrafficLightSystem\obj\Debug\SignalAggTask.pdb
